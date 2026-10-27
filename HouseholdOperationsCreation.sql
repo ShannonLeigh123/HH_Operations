@@ -1,3 +1,8 @@
+/* Household Operations Monthly Database Creation Script
+   This script creates the HouseholdOperations database and its associated tables.
+   It is designed to be run in Microsoft SQL Server 2022 Express Edition.
+*/
+
 CREATE DATABASE HouseholdOperations;
 GO
 
